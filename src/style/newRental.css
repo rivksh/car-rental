@@ -1,0 +1,64 @@
+/* .car-card {
+    
+    max-width: 500px; 
+    margin: 10px;     
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.car-card-image {
+    height: 300px; 
+    background-image: url("../car2.jpg");
+}
+.textCar{
+    height: 300px;
+    width: 500px;
+}
+.purchase-button {
+    border-color: rgb(107, 22, 22);
+    color: rgb(107, 22, 22); 
+    transition: border-color 0.3s; 
+    width: 100px;
+    
+}
+
+ .purchase-button:hover {
+    background-color: rgb(189, 133, 133); 
+
+}
+
+.purchased { 
+   background-color:rgb(243, 168, 168) !important; 
+    color: rgb(107, 22, 22) !important; 
+    border-color: rgb(107, 22, 22) !important; 
+}
+ */
+
+ /* .car-card {
+    max-width: 500px; 
+    margin: 10px;      
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.car-card-image {
+    height: 150px; 
+    background-image: url("../car2.jpg");
+}
+
+.purchase-button {
+    border-color: rgb(107, 22, 22); 
+    color: rgb(107, 22, 22); 
+    transition: border-color 0.3s; 
+}
+
+ .purchase-button:hover {
+    background-color: rgb(189, 133, 133); 
+}
+
+.purchased {
+   background-color:rgb(243, 168, 168) !important;
+    color: rgb(107, 22, 22) !important; 
+    border-color: rgb(107, 22, 22) !important; 
+}
+.textCar{
+    height: 300px;
+} */

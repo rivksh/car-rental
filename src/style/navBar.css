@@ -1,0 +1,10 @@
+.appBarNavBar {
+    background-color: rgb(107, 22, 22); 
+    color: rgb(107, 22, 22); 
+    transition: border-color 0.3s; 
+}
+.divNav{
+    text-align:end;
+    background-color: rgb(107, 22, 22); 
+
+}

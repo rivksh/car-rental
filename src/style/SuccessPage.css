@@ -1,0 +1,28 @@
+
+.success-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f0f8ff4b;
+}
+
+.car-image {
+    width: 300px; /* התאם את הגודל לפי הצורך */
+    margin: 20px 0;
+}
+
+.car-icon {
+    font-size: 50px; /* ניתן להגדיל או להקטין לפי הצורך */
+}
+.car-icon {
+    font-size: 50px;
+    transition: transform 0.5s;
+}
+
+.animate {
+    animation: moveCar 1s infinite alternate;
+}
+
+@keyframes moveCar {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(15px); }
+}
