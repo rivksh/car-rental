@@ -1,0 +1,7 @@
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\sql-1\sql-1\obj\Debug\net6.0\sql-1.MvcApplicationPartsAssemblyInfo.cache

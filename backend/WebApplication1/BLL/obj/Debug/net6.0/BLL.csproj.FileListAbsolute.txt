@@ -1,0 +1,17 @@
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\obj\Debug\net6.0\ref\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\BLL\bin\Debug\net6.0\DTO.pdb
