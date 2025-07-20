@@ -1,0 +1,12 @@
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\רבקי פינקלשטיין\C#\project\WebApplication1\DTO\obj\Debug\net6.0\ref\DTO.dll
