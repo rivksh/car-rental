@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# קבצי מערכת וסביבת עבודה
+.vs/
+bin/
+obj/
+*.sqlite
+*.vsuo
+
+# קבצי לוג, build, node_modules
+*.log
+node_modules/
+dist/
+dist-ssr/
