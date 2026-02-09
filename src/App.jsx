@@ -70,7 +70,8 @@ const theme = createTheme({
       styleOverrides: {
         root: {
           borderRadius: 16,
-          backdropFilter: 'blur(20px)',
+          // הסרנו את ה-blur כדי שהתוכן יהיה חד
+          // backdropFilter: 'blur(20px)', // למחוק!
         },
       },
     },
@@ -78,7 +79,8 @@ const theme = createTheme({
       styleOverrides: {
         root: {
           borderRadius: 16,
-          backdropFilter: 'blur(20px)',
+          // הסרנו את ה-blur כדי שהתוכן יהיה חד
+          // backdropFilter: 'blur(20px)', // למחוק!
         },
       },
     },
@@ -96,16 +98,22 @@ const theme = createTheme({
 
 function App() {
   return (
-    <Provider store={store}>
-      <ThemeProvider theme={theme}>
-        <CssBaseline />
-        <AppRouter />
-      </ThemeProvider>
-    </Provider>
+    <>
+      <div className="background-blur" />
+      <div className="app-content">
+        <Provider store={store}>
+          <ThemeProvider theme={theme}>
+            <CssBaseline />
+            <AppRouter />
+          </ThemeProvider>
+        </Provider>
+      </div>
+    </>
   );
 }
 
 export default App;
+
 
 /* 
  * SUMMARY: App.jsx

@@ -1,3 +1,24 @@
+/* רקע של כביש ללא טשטוש */
+.background-blur {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/images/road.jpg');
+  background-size: cover;
+  background-position: center;
+  background-color: transparent;
+  z-index: 0;
+}
+
+/* כל התוכן של האפליקציה יהיה חד וברור */
+.app-content {
+  position: relative;
+  z-index: 1;
+  filter: none !important;
+}
+
 /* Global Styles */
 * {
   box-sizing: border-box;
@@ -9,10 +30,9 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  background-attachment: fixed;
   color: #333;
   line-height: 1.6;
+  background: none !important;
 }
 
 #root {
@@ -22,8 +42,7 @@ body {
 
 /* Modern Card Styles */
 .modern-card {
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(20px);
+  background: #fff;
   border-radius: 20px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -33,23 +52,6 @@ body {
 .modern-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 30px 60px rgba(0, 0, 0, 0.15);
-}
-
-/* Gradient Backgrounds */
-.gradient-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-}
-
-.gradient-secondary {
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-}
-
-.gradient-success {
-  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-}
-
-.gradient-warning {
-  background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
 }
 
 /* Animation Classes */
@@ -104,7 +106,7 @@ body {
 /* Container Layouts */
 .main-container {
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: none !important;
   padding: 20px;
 }
 

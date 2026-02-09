@@ -35,27 +35,27 @@ const AppRouter = () => {
                     
                     {/* דפים מוגנים */}
                     <Route path="/home" element={
-                        <ProtectedRoute>
+                        // <ProtectedRoute>
                             <HomePage />
-                        </ProtectedRoute>
+                        // </ProtectedRoute>
                     } />
                     
                     <Route path="/packageList" element={
-                        <ProtectedRoute>
+                        // <ProtectedRoute>
                             <PackageList />
-                        </ProtectedRoute>
+                        // </ProtectedRoute>
                     } />
                     
                     <Route path="/productList" element={
-                        <ProtectedRoute>
+                        // <ProtectedRoute>
                             <ProductList />
-                        </ProtectedRoute>
+                        // </ProtectedRoute>
                     } />
                     
                     <Route path="/newRental" element={
-                        <ProtectedRoute>
+                        // <ProtectedRoute>
                             <NewRental />
-                        </ProtectedRoute>
+                        // </ProtectedRoute>
                     } />
                     
                     <Route path="/activeRental" element={

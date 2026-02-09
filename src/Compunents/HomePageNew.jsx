@@ -105,11 +105,8 @@ const HomePageNew = () => {
                             elevation={24}
                             sx={{ 
                                 p: 6, 
-                                mb: 6, 
                                 background: 'rgba(255, 255, 255, 0.95)',
-                                backdropFilter: 'blur(20px)',
                                 borderRadius: 4,
-                                textAlign: 'center',
                                 position: 'relative',
                                 overflow: 'hidden'
                             }}
@@ -190,7 +187,6 @@ const HomePageNew = () => {
                                             sx={{ 
                                                 height: '100%',
                                                 background: 'rgba(255, 255, 255, 0.95)',
-                                                backdropFilter: 'blur(20px)',
                                                 borderRadius: 3,
                                                 transition: 'all 0.3s ease',
                                                 cursor: 'pointer',
@@ -262,7 +258,6 @@ const HomePageNew = () => {
                             sx={{ 
                                 p: 5,
                                 background: 'rgba(255, 255, 255, 0.95)',
-                                backdropFilter: 'blur(20px)',
                                 borderRadius: 4
                             }}
                         >
